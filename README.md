@@ -34,7 +34,7 @@ Before you start, make sure you have:
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/cryptodai3/TradeGPT-Automation-Bot.git
+git clone https://github.com/DalleDai/TradeGPT-Automation-Bot.git
 ```
 ```bash
 cd TradeGPT-Automation-Bot
@@ -113,7 +113,7 @@ node index.js
 ## 💬 Got Questions?
 
 * Found a bug? Got an idea?
-  👉 [Open an issue](https://github.com/cryptodai3/TradeGPT-Automation-Bot/issues) or [DM cryptodai3](https://t.me/cryptodai3)
+  👉 [Open an issue](https://github.com/DalleDai/TradeGPT-Automation-Bot/issues) or [DM cryptodai3](https://t.me/cryptodai3)
 
 ---
 
